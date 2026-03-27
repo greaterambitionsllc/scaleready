@@ -1,1 +1,1 @@
-# scalereadydiagnostic
+# scaleready
