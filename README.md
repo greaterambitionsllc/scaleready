@@ -1748,4 +1748,3 @@ function emailResults() {
 </script>
 </body>
 </html>
-Uploading ScaleReady_Diagnostic_Rebranded v2.html…]()
